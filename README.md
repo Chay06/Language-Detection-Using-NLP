@@ -32,5 +32,3 @@ The model can predict the following 17 languages:
 - **Easy to Use**: Simple and intuitive interface for integration with other projects.
 
 
-
-
